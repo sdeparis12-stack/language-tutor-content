@@ -1,0 +1,67 @@
+{
+  "directoryVersion": 1,
+  "catalogRevision": 2,
+  "roots": [
+    {
+      "type": "folder",
+      "id": "learn-by-level",
+      "title": "Learn by Level",
+      "children": [
+        {
+          "type": "folder",
+          "id": "a1",
+          "title": "A1 — Beginner",
+          "children": [
+            {
+              "type": "lesson",
+              "entryId": "a1-poder",
+              "lessonId": "prototype-2f-poder-present"
+            }
+          ]
+        },
+        {
+          "type": "folder",
+          "id": "b1",
+          "title": "B1 — Intermediate",
+          "children": [
+            {
+              "type": "folder",
+              "id": "past-tense",
+              "title": "Past Tense",
+              "children": [
+                {
+                  "type": "lesson",
+                  "entryId": "b1-venir",
+                  "lessonId": "lesson_venir_01"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "folder",
+      "id": "verb-practice",
+      "title": "Verb Practice",
+      "children": [
+        {
+          "type": "lesson",
+          "entryId": "verbs-poder",
+          "lessonId": "prototype-2f-poder-present"
+        },
+        {
+          "type": "lesson",
+          "entryId": "verbs-venir",
+          "lessonId": "lesson_venir_01"
+        }
+      ]
+    },
+    {
+      "type": "folder",
+      "id": "situational",
+      "title": "Situational Practice",
+      "children": []
+    }
+  ]
+}
