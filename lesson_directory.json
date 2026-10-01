@@ -1,6 +1,6 @@
 {
   "directoryVersion": 1,
-  "catalogRevision": 3,
+  "catalogRevision": 4,
   "roots": [
     {
       "type": "folder",
@@ -64,6 +64,11 @@
           "type": "lesson",
           "entryId": "verbs-poder-plans",
           "lessonId": "lesson_poder_plans_01"
+        },
+        {
+          "type": "lesson",
+          "entryId": "verbs-1w-1-traer",
+          "lessonId": "lesson_1w_1_traer_present_past"
         }
       ]
     },

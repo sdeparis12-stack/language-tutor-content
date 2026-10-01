@@ -21,8 +21,15 @@
       "mode": "drill",
       "file": "Lessons/poder-plans-01.md",
       "sha256": "489fd863e80b5a3abd15a7f447cd09716a31f58c597d873dda75b07d3b0cfbd5"
+    },
+    {
+      "id": "lesson_1w_1_traer_present_past",
+      "lessonVersion": 1,
+      "mode": "drill",
+      "file": "Lessons/1w-1-traer-present-past.md",
+      "sha256": "bf0fbe32f59643942f4a0859a9097cd6c376faa39839fa230fbb1fc7e6dd3f0a"
     }
   ],
-  "catalogRevision": 3,
+  "catalogRevision": 4,
   "directoryFile": "lesson_directory.json"
 }
