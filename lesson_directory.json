@@ -1,6 +1,6 @@
 {
   "directoryVersion": 1,
-  "catalogRevision": 2,
+  "catalogRevision": 3,
   "roots": [
     {
       "type": "folder",
@@ -16,6 +16,11 @@
               "type": "lesson",
               "entryId": "a1-poder",
               "lessonId": "prototype-2f-poder-present"
+            },
+            {
+              "type": "lesson",
+              "entryId": "a1-poder-plans",
+              "lessonId": "lesson_poder_plans_01"
             }
           ]
         },
@@ -54,6 +59,11 @@
           "type": "lesson",
           "entryId": "verbs-venir",
           "lessonId": "lesson_venir_01"
+        },
+        {
+          "type": "lesson",
+          "entryId": "verbs-poder-plans",
+          "lessonId": "lesson_poder_plans_01"
         }
       ]
     },

@@ -14,8 +14,15 @@
       "mode": "drill",
       "file": "Lessons/venir-01.md",
       "sha256": "5e9b378e8e0aab56f8ebaea72337a0919077c683b30f3b44597d4bd2004d0623"
+    },
+    {
+      "id": "lesson_poder_plans_01",
+      "lessonVersion": 1,
+      "mode": "drill",
+      "file": "Lessons/poder-plans-01.md",
+      "sha256": "489fd863e80b5a3abd15a7f447cd09716a31f58c597d873dda75b07d3b0cfbd5"
     }
   ],
-  "catalogRevision": 2,
+  "catalogRevision": 3,
   "directoryFile": "lesson_directory.json"
 }
