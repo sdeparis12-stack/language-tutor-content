@@ -28,8 +28,22 @@
       "mode": "drill",
       "file": "Lessons/1w-1-traer-present-past.md",
       "sha256": "bf0fbe32f59643942f4a0859a9097cd6c376faa39839fa230fbb1fc7e6dd3f0a"
+    },
+    {
+      "id": "lesson_1w_2_traer_connections",
+      "lessonVersion": 1,
+      "mode": "drill",
+      "file": "Lessons/1w-2-traer-connections.md",
+      "sha256": "d5e4ee5f4da427abe2d2f3461f0b4de9c1927d9d74c69148ea1d595bf2eee421"
+    },
+    {
+      "id": "lesson_1w_3_traer_stories",
+      "lessonVersion": 1,
+      "mode": "drill",
+      "file": "Lessons/1w-3-traer-stories.md",
+      "sha256": "bfe3f9a8126aff7d77e4784150d62cc1204b5577dc40bfe1e370d6826dfe56f8"
     }
   ],
-  "catalogRevision": 4,
+  "catalogRevision": 5,
   "directoryFile": "lesson_directory.json"
 }

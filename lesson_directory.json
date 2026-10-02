@@ -1,6 +1,6 @@
 {
   "directoryVersion": 1,
-  "catalogRevision": 4,
+  "catalogRevision": 5,
   "roots": [
     {
       "type": "folder",
@@ -69,6 +69,16 @@
           "type": "lesson",
           "entryId": "verbs-1w-1-traer",
           "lessonId": "lesson_1w_1_traer_present_past"
+        },
+        {
+          "type": "lesson",
+          "entryId": "verbs-1w-2-traer",
+          "lessonId": "lesson_1w_2_traer_connections"
+        },
+        {
+          "type": "lesson",
+          "entryId": "verbs-1w-3-traer",
+          "lessonId": "lesson_1w_3_traer_stories"
         }
       ]
     },
