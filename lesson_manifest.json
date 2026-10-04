@@ -42,6 +42,12 @@
       "mode": "drill",
       "file": "Lessons/1w-3-traer-stories.md",
       "sha256": "bfe3f9a8126aff7d77e4784150d62cc1204b5577dc40bfe1e370d6826dfe56f8"
+    },
+    {
+      "lessonId": "1x_1_poner_present_past",
+      "lessonVersion": 1,
+      "path": "Lessons/1x_1_poner_present_past.md",
+      "sha256": "D380F69E44FEEF5110F70C88F143DD7ADAED5E3C5B6E32E150E02726503F1774"
     }
   ],
   "catalogRevision": 5,
