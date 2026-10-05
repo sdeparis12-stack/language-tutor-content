@@ -56,3 +56,30 @@ content, or progress. Publication was checked with the app's production parser,
 validator, grader, runner, cache, and content-sync path. All 52 new steps were
 checked for exact source wording, masks, canonical-answer success, and rejection
 of a wrong primary traer form. These checks do not simulate live speech recognition.
+
+## Lesson 1Y.1 — Tener: present and past
+
+Follows 1X.1's six-stage, 44-step structure exactly, using tengo / tenemos and
+tuve / tuvimos as the four primary forms. Practice includes meetings, appointments,
+time, car problems, luck, and doubts. New content vocabulary first appears in
+supported Spanish; familiar present forms and time markers are used for switching.
+
+| Stage | Prompt and support | Steps |
+| --- | --- | ---: |
+| Supported past introduction | Spanish Easy | 6 |
+| Simple past recall | English Medium; only the tener form hidden | 6 |
+| Short past switching | English Hard | 8 |
+| Present/past switching | English Hard | 12 |
+| Supported cumulative mix | Spanish Easy | 6 |
+| Cumulative past recall | English Hard | 6 |
+
+Each sentence has one canonical answer and one primary tener target. Venir, decir,
+traer, and poner reappear as context in the final mixed section; they do not gain
+separate target tracking. The whole sentence still needs to match the displayed
+canonical answer. There are 32 phrase-bank entries and 44 total attempts, including
+26 Hard attempts. The lesson appears directly after 1X.1 under Verb Practice.
+
+Catalog revision 8 adds this lesson without changing existing packs or their
+versions. Validation uses the app's production parser, grader, masks, runner, and
+catalog checks, including 44 canonical answers and 132 wrong-form checks. Live
+speech recognition remains a device-level check.
