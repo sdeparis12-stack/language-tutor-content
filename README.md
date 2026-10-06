@@ -83,3 +83,25 @@ Catalog revision 8 adds this lesson without changing existing packs or their
 versions. Validation uses the app's production parser, grader, masks, runner, and
 catalog checks, including 44 canonical answers and 132 wrong-form checks. Live
 speech recognition remains a device-level check.
+
+## Lesson 1Z.1 — Estar: present and past
+
+Follows 1Y.1's six-stage, 44-step structure with estoy / estamos and
+estuve / estuvimos. Practice focuses on where you are today and where you were
+during a completed past visit. Locations include the office, museum, pharmacy,
+station, home, and park. New content vocabulary appears in supported Spanish
+before recall; familiar present forms and time markers support tense switching.
+
+The progression is 6 Spanish Easy introductions, 6 English Medium attempts with
+only the estar form hidden, 8 short English Hard switches, 12 present/past
+English Hard switches, 6 Spanish Easy mixed sentences, and 6 English Hard mixed
+recall attempts: 32 phrase-bank entries and 44 attempts, including 26 Hard.
+
+Each sentence has one canonical answer and one primary estar target. Venir,
+traer, decir, and tener return as context in the mixed section; the app still
+checks the whole canonical sentence. The lesson follows 1Y.1 under Verb Practice.
+
+Catalog revision 9 adds this lesson without changing earlier packs or versions.
+Validation uses the app's production parser, grader, masks, runner, and catalog
+checks, including all 44 canonical answers and 132 wrong-form checks. Live speech
+recognition remains a device-level check.

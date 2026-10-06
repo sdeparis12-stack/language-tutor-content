@@ -56,8 +56,15 @@
       "mode": "drill",
       "file": "Lessons/1y_1_tener_present_past.md",
       "sha256": "541caa215b752b2f00e6838a1982559ff187a15a3c444ed933bec17979e0b7e8"
+    },
+    {
+      "id": "lesson_1z_1_estar_present_past",
+      "lessonVersion": 1,
+      "mode": "drill",
+      "file": "Lessons/1z_1_estar_present_past.md",
+      "sha256": "bdc645e7189284c2ef2fefd87c04c287781464738cffb85f40633d4facc80cbc"
     }
   ],
-  "catalogRevision": 8,
+  "catalogRevision": 9,
   "directoryFile": "lesson_directory.json"
 }

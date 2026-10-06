@@ -1,6 +1,6 @@
 {
   "directoryVersion": 1,
-  "catalogRevision": 8,
+  "catalogRevision": 9,
   "roots": [
     {
       "type": "folder",
@@ -89,6 +89,11 @@
           "type": "lesson",
           "entryId": "verbs-1y-1-tener",
           "lessonId": "lesson_1y_1_tener_present_past"
+        },
+        {
+          "type": "lesson",
+          "entryId": "verbs-1z-1-estar",
+          "lessonId": "lesson_1z_1_estar_present_past"
         }
       ]
     },
