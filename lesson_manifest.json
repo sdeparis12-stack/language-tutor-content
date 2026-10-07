@@ -63,8 +63,15 @@
       "mode": "drill",
       "file": "Lessons/1z_1_estar_present_past.md",
       "sha256": "bdc645e7189284c2ef2fefd87c04c287781464738cffb85f40633d4facc80cbc"
+    },
+    {
+      "id": "lesson_1aa_1_hacer_present_past",
+      "lessonVersion": 1,
+      "mode": "drill",
+      "file": "Lessons/1aa_1_hacer_present_past.md",
+      "sha256": "f0a435f3ccd9edc6e3e205a2b367ddb3915cd8c5d38322d9a08369b909591b05"
     }
   ],
-  "catalogRevision": 9,
+  "catalogRevision": 10,
   "directoryFile": "lesson_directory.json"
 }

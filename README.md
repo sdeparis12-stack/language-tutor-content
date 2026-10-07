@@ -105,3 +105,29 @@ Catalog revision 9 adds this lesson without changing earlier packs or versions.
 Validation uses the app's production parser, grader, masks, runner, and catalog
 checks, including all 44 canonical answers and 132 wrong-form checks. Live speech
 recognition remains a device-level check.
+
+## Lesson 1AA.1 — Hacer: present and past
+
+Follows 1Z.1's six-stage, 44-step structure with hago / hacemos and hice / hicimos.
+Practice covers making meals, making plans and reservations, asking questions,
+and exercising. New content vocabulary appears in supported Spanish before
+recall; present forms and familiar time markers support tense switching.
+
+The progression is 6 Spanish Easy introductions, 6 English Medium attempts with
+only the hacer form hidden, 8 short English Hard switches, 12 present/past
+English Hard switches, 6 Spanish Easy mixed sentences, and 6 English Hard mixed
+recall attempts: 32 phrase-bank entries and 44 attempts, including 26 Hard.
+
+Each sentence has one canonical answer and one primary hacer target. The final
+section revisits venir, traer, decir, poner, tener, and estar as context, while
+the app still checks the whole canonical sentence. In combinations such as
+"vine temprano e hice la cena," e means "and": y becomes e before the initial
+/i/ sound in hice and hicimos. These combinations appear with Spanish support
+before recall. English translations use natural phrasing, so hacer una pregunta
+is "ask a question" and hacer ejercicio is "exercise."
+
+The lesson follows 1Z.1 under Verb Practice. Catalog revision 10 adds this lesson
+without changing earlier packs or versions. Validation uses the app's production
+parser, grader, masks, runner, and catalog checks, including all 44 canonical
+answers and 132 wrong-form checks. Live speech recognition remains a device-level
+check.
