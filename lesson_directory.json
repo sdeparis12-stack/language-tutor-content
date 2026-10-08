@@ -1,6 +1,6 @@
 {
   "directoryVersion": 1,
-  "catalogRevision": 10,
+  "catalogRevision": 11,
   "roots": [
     {
       "type": "folder",
@@ -99,6 +99,11 @@
           "type": "lesson",
           "entryId": "verbs-1aa-1-hacer",
           "lessonId": "lesson_1aa_1_hacer_present_past"
+        },
+        {
+          "type": "lesson",
+          "entryId": "verbs-1ab-1-poder",
+          "lessonId": "lesson_1ab_1_poder_present_past"
         }
       ]
     },

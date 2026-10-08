@@ -131,3 +131,26 @@ without changing earlier packs or versions. Validation uses the app's production
 parser, grader, masks, runner, and catalog checks, including all 44 canonical
 answers and 132 wrong-form checks. Live speech recognition remains a device-level
 check.
+
+## Lesson 1AB.1 — Poder: present and past
+
+Follows 1AA.1's six-stage, 44-step structure with puedo / podemos and pude /
+pudimos. Practice covers finishing work, reservations, getting to meetings,
+buying tickets, opening a door, and finding keys. Positive past examples use
+"was/were able to" for achieved actions; negative examples practice no pude /
+no pudimos. The infinitive after poder stays unchanged.
+
+The progression is 6 Spanish Easy introductions, 6 English Medium attempts with
+only the poder form hidden, 8 short English Hard switches, 12 present/past
+English Hard switches, 6 Spanish Easy mixed sentences, and 6 English Hard mixed
+recall attempts: 32 phrase-bank entries and 44 attempts, including 26 Hard.
+New content vocabulary appears in supported Spanish before recall.
+
+Each sentence has one canonical answer and one primary poder target. Familiar
+venir, tener, traer, estar, hacer, and decir forms return in the mixed section
+as context; the app still checks the complete canonical sentence.
+
+The lesson follows 1AA.1 under Verb Practice. Catalog revision 11 adds it without
+changing earlier packs or versions. Validation covers the app's parser, grader,
+masks, runner, and catalog checks, including 44 canonical answers and 132
+wrong-form checks. Live speech recognition remains a device-level check.
