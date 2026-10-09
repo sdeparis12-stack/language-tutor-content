@@ -77,8 +77,15 @@
       "mode": "drill",
       "file": "Lessons/1ab_1_poder_present_past.md",
       "sha256": "ad8cc3b8c9ab93bd9a1c8aecc1b97a33605cddb3b0d61f5492b241e24dab69b0"
+    },
+    {
+      "id": "lesson_1ac_1_ir_present_past",
+      "lessonVersion": 1,
+      "mode": "drill",
+      "file": "Lessons/1ac_1_ir_present_past.md",
+      "sha256": "cf07e405574b3e49e77ec85eb4d126eac522d181dd2c56eca466ee4f76dcc07b"
     }
   ],
-  "catalogRevision": 11,
+  "catalogRevision": 12,
   "directoryFile": "lesson_directory.json"
 }

@@ -154,3 +154,26 @@ The lesson follows 1AA.1 under Verb Practice. Catalog revision 11 adds it withou
 changing earlier packs or versions. Validation covers the app's parser, grader,
 masks, runner, and catalog checks, including 44 canonical answers and 132
 wrong-form checks. Live speech recognition remains a device-level check.
+
+## Lesson 1AC.1 — Ir: present and past
+
+Follows 1AB.1's six-stage, 44-step structure with voy / vamos and fui / fuimos.
+The focus is going to places: the supermarket, station, pharmacy, museum, office,
+and park. Destination phrases reinforce a la and al. All uses of fui / fuimos
+in this pack mean "went"; the shared ser forms are not introduced here.
+
+The progression is 6 Spanish Easy introductions, 6 English Medium attempts with
+only the ir form hidden, 8 short English Hard switches, 12 present/past
+English Hard switches, 6 Spanish Easy mixed sentences, and 6 English Hard mixed
+recall attempts: 32 phrase-bank entries and 44 attempts, including 26 Hard.
+New content vocabulary appears in supported Spanish before recall.
+
+Each sentence has one canonical answer and one primary ir target. Hacer, tener,
+poder, traer, decir, and estar return as context in the final section. Other
+verbs are not separate primary targets; the app still expects every word of the
+canonical sentence under its existing word-coverage grading.
+
+The lesson follows 1AB.1 under Verb Practice. Catalog revision 12 adds it without
+changing earlier packs or versions. Validation covers the app's parser, grader,
+masks, runner, and catalog checks, including 44 canonical answers and 132
+wrong-form checks. Live speech recognition remains a device-level check.
