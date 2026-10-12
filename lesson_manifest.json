@@ -94,12 +94,12 @@
     },
     {
       "id": "scenario-visiting-friends-01",
-      "lessonVersion": 1,
+      "lessonVersion": 2,
       "mode": "scenario",
       "file": "Lessons/scenario-visiting-friends-01.json",
-      "sha256": "18bd183e53580920d567c5175d63ab05ff174116777ab3c017f8db9d7e67beb8"
+      "sha256": "1b92d2cb399766719a7ccf0f190813475c4ca362e930b9edb0eba72442f6b22f"
     }
   ],
-  "catalogRevision": 14,
+  "catalogRevision": 15,
   "directoryFile": "lesson_directory.json"
 }

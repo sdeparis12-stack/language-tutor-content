@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "scenario-visiting-friends-01",
-  "lessonVersion": 1,
+  "lessonVersion": 2,
   "mode": "scenario",
   "title": "Visiting Friends",
   "scenes": [
@@ -146,7 +146,7 @@
         {
           "id": "turn-4",
           "npcSpanish": "Ah, sí. Ahora me acuerdo. ¿Y qué trajeron ustedes?",
-          "englishObjective": "Say that you brought some flowers and put them on the balcony.",
+          "englishObjective": "Speaking for your group, say that you brought some flowers and put them on the balcony. Use “we.”",
           "canonicalResponse": "Trajimos unas flores y las pusimos en el balcón.",
           "acceptedResponses": [
             "Trajimos unas flores y las pusimos en el balcón.",
