@@ -91,8 +91,15 @@
       "mode": "drill",
       "file": "Lessons/1ad_1_dar_present_past.md",
       "sha256": "6eff5f1e584ce5336caf79b4d8af497adbe6738dd37d2061ae9742011899452d"
+    },
+    {
+      "id": "scenario-visiting-friends-01",
+      "lessonVersion": 1,
+      "mode": "scenario",
+      "file": "Lessons/scenario-visiting-friends-01.json",
+      "sha256": "18bd183e53580920d567c5175d63ab05ff174116777ab3c017f8db9d7e67beb8"
     }
   ],
-  "catalogRevision": 13,
+  "catalogRevision": 14,
   "directoryFile": "lesson_directory.json"
 }

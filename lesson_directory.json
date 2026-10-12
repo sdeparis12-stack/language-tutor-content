@@ -1,6 +1,6 @@
 {
   "directoryVersion": 1,
-  "catalogRevision": 13,
+  "catalogRevision": 14,
   "roots": [
     {
       "type": "folder",
@@ -121,7 +121,15 @@
       "type": "folder",
       "id": "situational",
       "title": "Situational Practice",
-      "children": []
+      "children": [
+        {
+          "type": "lesson",
+          "entryId": "situational-visiting-friends-01",
+          "lessonId": "scenario-visiting-friends-01",
+          "displayTitle": "Visiting Friends",
+          "displaySubtitle": "Three short scenes with María"
+        }
+      ]
     }
   ]
 }

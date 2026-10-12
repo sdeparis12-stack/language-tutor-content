@@ -1,0 +1,286 @@
+{
+  "schemaVersion": 1,
+  "id": "scenario-visiting-friends-01",
+  "lessonVersion": 1,
+  "mode": "scenario",
+  "title": "Visiting Friends",
+  "scenes": [
+    {
+      "id": "scene-1",
+      "title": "Arriving tonight",
+      "turns": [
+        {
+          "id": "turn-1",
+          "npcSpanish": "¡Hola! Qué bueno que vienes. ¿Traes algo para esta noche?",
+          "englishObjective": "Tell her you're bringing dessert and a bottle of water.",
+          "canonicalResponse": "Traigo un postre y una botella de agua.",
+          "acceptedResponses": [
+            "Traigo un postre y una botella de agua.",
+            "Traigo postre y agua.",
+            "Sí, traigo un postre y agua."
+          ],
+          "requiredTargetForms": [
+            "traigo"
+          ],
+          "requiredConcepts": [
+            {
+              "id": "bringing",
+              "accepted": [
+                "traigo"
+              ]
+            },
+            {
+              "id": "dessert",
+              "accepted": [
+                "postre"
+              ]
+            },
+            {
+              "id": "water",
+              "accepted": [
+                "agua",
+                "botella de agua"
+              ]
+            }
+          ],
+          "hints": [
+            "postre\nbotella de agua",
+            "traigo",
+            "Traigo _____ y _____.",
+            "Traigo un postre y una botella de agua."
+          ]
+        },
+        {
+          "id": "turn-2",
+          "npcSpanish": "Perfecto. ¿Vienes solo?",
+          "englishObjective": "Say you're coming alone today, but yesterday you came with a friend.",
+          "canonicalResponse": "Hoy vengo solo, pero ayer vine con un amigo.",
+          "acceptedResponses": [
+            "Hoy vengo solo, pero ayer vine con un amigo.",
+            "Vengo solo hoy, pero ayer vine con un amigo.",
+            "Hoy vengo solo. Ayer vine con un amigo."
+          ],
+          "requiredTargetForms": [
+            "vengo",
+            "vine"
+          ],
+          "requiredConcepts": [
+            {
+              "id": "alone",
+              "accepted": [
+                "solo",
+                "sola"
+              ]
+            },
+            {
+              "id": "friend",
+              "accepted": [
+                "amigo",
+                "amiga",
+                "un amigo",
+                "una amiga"
+              ]
+            },
+            {
+              "id": "today",
+              "accepted": [
+                "hoy"
+              ]
+            },
+            {
+              "id": "past",
+              "accepted": [
+                "ayer"
+              ]
+            }
+          ],
+          "hints": [
+            "solo\ncon un amigo",
+            "vengo\nvine",
+            "Hoy vengo _____, pero ayer vine _____.",
+            "Hoy vengo solo, pero ayer vine con un amigo."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "scene-2",
+      "title": "Last time you visited",
+      "turns": [
+        {
+          "id": "turn-3",
+          "npcSpanish": "La última vez viniste con muchas cosas. ¿Qué pasó con la cámara?",
+          "englishObjective": "Say that you brought the camera and put it on the table.",
+          "canonicalResponse": "Traje la cámara y la puse sobre la mesa.",
+          "acceptedResponses": [
+            "Traje la cámara y la puse sobre la mesa.",
+            "Traje una cámara y la puse en la mesa.",
+            "Sí, traje mi cámara y la puse sobre la mesa.",
+            "Sí, traje mi cámara y después la puse en la mesa."
+          ],
+          "requiredTargetForms": [
+            "traje",
+            "puse"
+          ],
+          "requiredConcepts": [
+            {
+              "id": "camera",
+              "accepted": [
+                "cámara"
+              ]
+            },
+            {
+              "id": "table",
+              "accepted": [
+                "mesa"
+              ]
+            }
+          ],
+          "hints": [
+            "cámara\nmesa",
+            "traje\npuse",
+            "Traje _____ y la puse _____.",
+            "Traje la cámara y la puse sobre la mesa."
+          ]
+        },
+        {
+          "id": "turn-4",
+          "npcSpanish": "Ah, sí. Ahora me acuerdo. ¿Y qué trajeron ustedes?",
+          "englishObjective": "Say that you brought some flowers and put them on the balcony.",
+          "canonicalResponse": "Trajimos unas flores y las pusimos en el balcón.",
+          "acceptedResponses": [
+            "Trajimos unas flores y las pusimos en el balcón.",
+            "Trajimos flores y las pusimos en el balcón."
+          ],
+          "requiredTargetForms": [
+            "trajimos",
+            "pusimos"
+          ],
+          "requiredConcepts": [
+            {
+              "id": "flowers",
+              "accepted": [
+                "flores"
+              ]
+            },
+            {
+              "id": "balcony",
+              "accepted": [
+                "balcón"
+              ]
+            }
+          ],
+          "hints": [
+            "flores\nbalcón",
+            "trajimos\npusimos",
+            "Trajimos _____ y las pusimos _____.",
+            "Trajimos unas flores y las pusimos en el balcón."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "scene-3",
+      "title": "Heading home",
+      "turns": [
+        {
+          "id": "turn-5",
+          "npcSpanish": "Ya es tarde. ¿Te vas pronto?",
+          "englishObjective": "Say that you need to leave soon, but first you're putting your charger in your backpack.",
+          "canonicalResponse": "Necesito salir pronto, pero primero pongo mi cargador en la mochila.",
+          "acceptedResponses": [
+            "Necesito salir pronto, pero primero pongo mi cargador en la mochila.",
+            "Necesito salir pronto. Primero pongo mi cargador en la mochila.",
+            "Tengo que salir pronto, pero primero pongo mi cargador en la mochila."
+          ],
+          "requiredTargetForms": [
+            "pongo"
+          ],
+          "requiredConcepts": [
+            {
+              "id": "leaving",
+              "accepted": [
+                "necesito salir",
+                "tengo que salir"
+              ]
+            },
+            {
+              "id": "soon",
+              "accepted": [
+                "pronto"
+              ]
+            },
+            {
+              "id": "charger",
+              "accepted": [
+                "cargador"
+              ]
+            },
+            {
+              "id": "backpack",
+              "accepted": [
+                "mochila"
+              ]
+            },
+            {
+              "id": "first",
+              "accepted": [
+                "primero"
+              ]
+            }
+          ],
+          "hints": [
+            "cargador\nmochila",
+            "salir\npongo",
+            "Necesito salir _____, pero primero pongo _____.",
+            "Necesito salir pronto, pero primero pongo mi cargador en la mochila."
+          ]
+        },
+        {
+          "id": "turn-6",
+          "npcSpanish": "Perfecto. ¿Y la próxima vez?",
+          "englishObjective": "Say that next time you want to bring your camera.",
+          "canonicalResponse": "La próxima vez quiero traer mi cámara.",
+          "acceptedResponses": [
+            "La próxima vez quiero traer mi cámara.",
+            "Quiero traer mi cámara la próxima vez.",
+            "La próxima vez quiero traer una cámara."
+          ],
+          "requiredTargetForms": [
+            "quiero",
+            "traer"
+          ],
+          "requiredConcepts": [
+            {
+              "id": "camera",
+              "accepted": [
+                "cámara"
+              ]
+            },
+            {
+              "id": "next time",
+              "accepted": [
+                "próxima vez",
+                "la próxima vez"
+              ]
+            },
+            {
+              "id": "want to bring",
+              "accepted": [
+                "quiero traer",
+                "quiero poder traer"
+              ]
+            }
+          ],
+          "hints": [
+            "la próxima vez\ncámara",
+            "quiero\ntraer",
+            "La próxima vez quiero _____ _____.",
+            "La próxima vez quiero traer mi cámara."
+          ]
+        }
+      ]
+    }
+  ],
+  "finalNPC": "¡Perfecto! Nos vemos la próxima vez."
+}
