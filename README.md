@@ -177,3 +177,27 @@ The lesson follows 1AB.1 under Verb Practice. Catalog revision 12 adds it withou
 changing earlier packs or versions. Validation covers the app's parser, grader,
 masks, runner, and catalog checks, including 44 canonical answers and 132
 wrong-form checks. Live speech recognition remains a device-level check.
+
+## Lesson 1AD.1 — Dar: present and past
+
+Follows 1AC.1's six-stage, 44-step structure with doy / damos and di / dimos.
+Practice covers giving answers, tips, gifts, and explanations, alongside the
+common expressions dar un paseo (take a walk) and dar las gracias (say thank you).
+The supported gift sentence introduces le with an explicit recipient, mi hermana.
+
+The progression is 6 Spanish Easy introductions, 6 English Medium attempts with
+only the dar form hidden, 8 short English Hard switches, 12 present/past
+English Hard switches, 6 Spanish Easy mixed sentences, and 6 English Hard mixed
+recall attempts: 32 phrase-bank entries and 44 attempts, including 26 Hard.
+New content vocabulary appears in supported Spanish before recall.
+
+Each sentence has one canonical answer and one primary dar target. Ir, tener,
+hacer, estar, decir, and poder return as context in the final section. Other
+verbs are not separate primary targets; the app still expects every word of the
+canonical sentence under its existing word-coverage grading.
+
+The lesson follows 1AC.1 under Verb Practice. Catalog revision 13 adds it without
+changing earlier packs or versions. Validation covers the app's parser, grader,
+masks, runner, and catalog checks, including 44 canonical answers and 132
+wrong-form checks. Wrong-form substitutions match whole words so di does not
+alter dije. Live speech recognition remains a device-level check.

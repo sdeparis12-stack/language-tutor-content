@@ -84,8 +84,15 @@
       "mode": "drill",
       "file": "Lessons/1ac_1_ir_present_past.md",
       "sha256": "cf07e405574b3e49e77ec85eb4d126eac522d181dd2c56eca466ee4f76dcc07b"
+    },
+    {
+      "id": "lesson_1ad_1_dar_present_past",
+      "lessonVersion": 1,
+      "mode": "drill",
+      "file": "Lessons/1ad_1_dar_present_past.md",
+      "sha256": "6eff5f1e584ce5336caf79b4d8af497adbe6738dd37d2061ae9742011899452d"
     }
   ],
-  "catalogRevision": 12,
+  "catalogRevision": 13,
   "directoryFile": "lesson_directory.json"
 }
