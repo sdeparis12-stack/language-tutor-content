@@ -226,3 +226,30 @@ preserving all 14 previous lesson entries, including Visiting Friends version 2.
 Validation covers the app's parser, grader, masks, runner, and catalog checks,
 including 44 canonical answers and 132 whole-word wrong-form checks. Live speech
 recognition remains a device-level check.
+
+## Lesson 1AF.1 — Decir: present and past
+
+Follows the established six-stage, 44-step structure with digo / decimos and
+dije / dijimos: 12 Spanish Easy, 6 English Medium, and 26 English Hard attempts.
+Decir previously appeared as context; this is its first dedicated Drill pack.
+Practice includes telling the truth, saying names and addresses, brief remarks,
+saying nothing, and communicating a meeting time.
+
+The six longer sentences deliberately vary their structure: a why-question, a
+negative with a reason, a time phrase before reported speech, a contrast with
+pero, a message report, and an embedded where-clause. They revisit poder, ver,
+ir, dar, traer, and poner in a different order. New words and structures first
+appear in Spanish Easy. Final Hard recall uses the fixed mixed order p30, p27,
+p32, p28, p31, p29 rather than replaying the exposure order. Each sentence still
+has one canonical answer and one primary decir target.
+
+Authoring preference for subsequent lessons: vary the longer sentence openings,
+clause structures, situations, maintenance verbs, and yo/nosotros order. Avoid
+repeatedly using "Tuvimos tiempo," "Pudimos salir," or "Estuvimos" as a template.
+Use deliberate variety with supported exposure; keep published sequence order
+stable for resume and progress. This is authored variety, not runtime shuffling.
+
+Catalog revision 17 appends the lesson after 1AE.1 in Verb Practice and preserves
+all 15 prior lesson entries, including Visiting Friends version 2. Validation
+covers 44 canonical answers, 132 wrong-form checks, masks, full completion, and
+next-lesson navigation. Live speech recognition remains a device-level check.

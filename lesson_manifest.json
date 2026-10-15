@@ -105,8 +105,15 @@
       "mode": "drill",
       "file": "Lessons/1ae_1_ver_present_past.md",
       "sha256": "a35259174f3c73e5bc07803ab4a16340caba626ec79aa7494f8b9215457b63d9"
+    },
+    {
+      "id": "lesson_1af_1_decir_present_past",
+      "lessonVersion": 1,
+      "mode": "drill",
+      "file": "Lessons/1af_1_decir_present_past.md",
+      "sha256": "d73def5b39b1457163d17631190f813a0b08b0a1a66b02995c3ad18f4af7d3b6"
     }
   ],
-  "catalogRevision": 16,
+  "catalogRevision": 17,
   "directoryFile": "lesson_directory.json"
 }
