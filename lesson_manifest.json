@@ -98,8 +98,15 @@
       "mode": "scenario",
       "file": "Lessons/scenario-visiting-friends-01.json",
       "sha256": "1b92d2cb399766719a7ccf0f190813475c4ca362e930b9edb0eba72442f6b22f"
+    },
+    {
+      "id": "lesson_1ae_1_ver_present_past",
+      "lessonVersion": 1,
+      "mode": "drill",
+      "file": "Lessons/1ae_1_ver_present_past.md",
+      "sha256": "a35259174f3c73e5bc07803ab4a16340caba626ec79aa7494f8b9215457b63d9"
     }
   ],
-  "catalogRevision": 15,
+  "catalogRevision": 16,
   "directoryFile": "lesson_directory.json"
 }

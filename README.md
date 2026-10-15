@@ -201,3 +201,28 @@ changing earlier packs or versions. Validation covers the app's parser, grader,
 masks, runner, and catalog checks, including 44 canonical answers and 132
 wrong-form checks. Wrong-form substitutions match whole words so di does not
 alter dije. Live speech recognition remains a device-level check.
+
+## Lesson 1AE.1 — Ver: present and past
+
+Follows 1AD.1's six-stage, 44-step structure with veo / vemos and vi / vimos.
+Practice covers movies, museum exhibitions, family, friends, trip photographs,
+and phone messages. Seeing a specific person uses the personal a, introduced
+in supported phrases before recall. Ver una película is translated naturally
+as "watch a movie." Each prompt has one canonical Spanish answer.
+
+The progression is 6 Spanish Easy introductions, 6 English Medium attempts with
+only the ver form hidden, 8 short English Hard switches, 12 present/past
+English Hard switches, 6 Spanish Easy mixed sentences, and 6 English Hard mixed
+recall attempts: 32 phrase-bank entries and 44 attempts, including 26 Hard.
+New content vocabulary appears in supported Spanish before recall.
+
+Each sentence has one primary ver target. Ir, tener, hacer, estar, dar, and poder
+return as context in the final section. Other verbs are not separate primary
+targets; the app still expects every word of the canonical sentence under its
+existing word-coverage grading.
+
+The lesson follows 1AD.1 under Verb Practice. Catalog revision 16 adds it while
+preserving all 14 previous lesson entries, including Visiting Friends version 2.
+Validation covers the app's parser, grader, masks, runner, and catalog checks,
+including 44 canonical answers and 132 whole-word wrong-form checks. Live speech
+recognition remains a device-level check.

@@ -1,6 +1,6 @@
 {
   "directoryVersion": 1,
-  "catalogRevision": 15,
+  "catalogRevision": 16,
   "roots": [
     {
       "type": "folder",
@@ -114,6 +114,11 @@
           "type": "lesson",
           "entryId": "verbs-1ad-1-dar",
           "lessonId": "lesson_1ad_1_dar_present_past"
+        },
+        {
+          "type": "lesson",
+          "entryId": "verbs-1ae-1-ver",
+          "lessonId": "lesson_1ae_1_ver_present_past"
         }
       ]
     },
