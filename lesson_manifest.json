@@ -112,8 +112,43 @@
       "mode": "drill",
       "file": "Lessons/1af_1_decir_present_past.md",
       "sha256": "d73def5b39b1457163d17631190f813a0b08b0a1a66b02995c3ad18f4af7d3b6"
+    },
+    {
+      "id": "lesson_1ag_1_querer_present_past",
+      "lessonVersion": 1,
+      "mode": "drill",
+      "file": "Lessons/1ag_1_querer_present_past.md",
+      "sha256": "ab1a6d75c150ada2aa39f511e5e6547b131e46b2eb4de234f388a30c6046f9b2"
+    },
+    {
+      "id": "lesson_1ah_1_saber_present_past",
+      "lessonVersion": 1,
+      "mode": "drill",
+      "file": "Lessons/1ah_1_saber_present_past.md",
+      "sha256": "cd2ea937ab60646abb2375420dbb052248f3884a330c3d7ecab38c5111a5a30f"
+    },
+    {
+      "id": "lesson_1ai_1_hablar_present_past",
+      "lessonVersion": 1,
+      "mode": "drill",
+      "file": "Lessons/1ai_1_hablar_present_past.md",
+      "sha256": "4e55d7e6756c37071b0001a50fa175486eed2135000b35b5e7f2ad0af1ab971e"
+    },
+    {
+      "id": "lesson_1aj_1_salir_present_past",
+      "lessonVersion": 1,
+      "mode": "drill",
+      "file": "Lessons/1aj_1_salir_present_past.md",
+      "sha256": "273ca4a530e66e678f1fd9f208d601e0f3c9fd0b16c3be359f5b5f4be32ab104"
+    },
+    {
+      "id": "lesson_1ak_1_llegar_present_past",
+      "lessonVersion": 1,
+      "mode": "drill",
+      "file": "Lessons/1ak_1_llegar_present_past.md",
+      "sha256": "ff5421fd195aacab4266bc751bc8438c9c6725fa7a62b6c58db821c01fdc1b9a"
     }
   ],
-  "catalogRevision": 17,
+  "catalogRevision": 18,
   "directoryFile": "lesson_directory.json"
 }

@@ -253,3 +253,44 @@ Catalog revision 17 appends the lesson after 1AE.1 in Verb Practice and preserve
 all 15 prior lesson entries, including Visiting Friends version 2. Validation
 covers 44 canonical answers, 132 wrong-form checks, masks, full completion, and
 next-lesson navigation. Live speech recognition remains a device-level check.
+
+## Lessons 1AG.1–1AK.1 — Five-verb practice batch
+
+| Lesson | Focus | Present: yo / nosotros | Preterite: yo / nosotros |
+| --- | --- | --- | --- |
+| 1AG.1 | Querer | quiero / queremos | quise / quisimos |
+| 1AH.1 | Saber | sé / sabemos | supe / supimos |
+| 1AI.1 | Hablar | hablo / hablamos | hablé / hablamos |
+| 1AJ.1 | Salir | salgo / salimos | salí / salimos |
+| 1AK.1 | Llegar | llego / llegamos | llegué / llegamos |
+
+Querer and salir refresh the learner's earlier Voice Mode practice. Each pack
+keeps the six-stage structure: 12 Spanish Easy, 6 English Medium, and 26 English
+Hard attempts. The batch supplies 220 attempts, including 130 Hard attempts.
+Each sentence has one canonical answer and one primary target; other verbs
+provide context, while the app still expects the whole canonical sentence.
+
+Saber contrasts knowing now with finding out in the past: sé / sabemos versus
+supe / supimos. Querer practices bounded past wants, with no quise / no quisimos
+translated as refusal in the selected examples. These are contextual meanings,
+not universal word-for-word substitution rules.
+
+Hablamos, salimos, and llegamos share their present and preterite surface forms.
+Time cues distinguish the intended readings, and target metadata keeps their
+person and tense separate. A shared surface form is never listed as its own
+competing answer. Background imperfect forms había and hacía in the supported noise and weather
+sentences are context, not new primary targets.
+
+The longer sections vary questions, reasons, contrasts, time clauses, reported
+information, destinations, and everyday situations. New vocabulary appears with
+Spanish support before English recall. Each final Hard section uses a distinct,
+fixed mixed order so practice is less predictable while resume stays stable.
+
+Catalog revision 18 appends all five after 1AF.1 in Verb Practice, preserving all
+16 existing lesson entries, versions, and files, including Visiting Friends v2.
+Validation covers 220 canonical answers, 528 wrong-form substitutions, masks,
+target tense and person, full completion, and navigation between lessons. These
+checks do not simulate live speech recognition.
+
+Suggested follow-up: two unit reviews, one mixing irregular verbs and another
+combining verbs in everyday situations. Those reviews are not part of this batch.

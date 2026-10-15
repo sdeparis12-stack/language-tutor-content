@@ -1,6 +1,6 @@
 {
   "directoryVersion": 1,
-  "catalogRevision": 17,
+  "catalogRevision": 18,
   "roots": [
     {
       "type": "folder",
@@ -124,6 +124,31 @@
           "type": "lesson",
           "entryId": "verbs-1af-1-decir",
           "lessonId": "lesson_1af_1_decir_present_past"
+        },
+        {
+          "type": "lesson",
+          "entryId": "verbs-1ag-1-querer",
+          "lessonId": "lesson_1ag_1_querer_present_past"
+        },
+        {
+          "type": "lesson",
+          "entryId": "verbs-1ah-1-saber",
+          "lessonId": "lesson_1ah_1_saber_present_past"
+        },
+        {
+          "type": "lesson",
+          "entryId": "verbs-1ai-1-hablar",
+          "lessonId": "lesson_1ai_1_hablar_present_past"
+        },
+        {
+          "type": "lesson",
+          "entryId": "verbs-1aj-1-salir",
+          "lessonId": "lesson_1aj_1_salir_present_past"
+        },
+        {
+          "type": "lesson",
+          "entryId": "verbs-1ak-1-llegar",
+          "lessonId": "lesson_1ak_1_llegar_present_past"
         }
       ]
     },
