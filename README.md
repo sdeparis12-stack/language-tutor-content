@@ -297,40 +297,48 @@ combining verbs in everyday situations. Those reviews are not part of this batch
 
 ## Unit Review 1 — Mixed Verbs: Present & Past
 
-This is the first cumulative review, listed directly after 1AK.1 under Verb
-Practice. Its title starts with **Unit Review 1** so it is easy to distinguish
-from individual verb lessons. The subtitle identifies its scope: 1AG–1AK plus
-Dar, Ver, and Decir. Future unit reviews should use the same `Unit Review N —`
-title prefix and stable `unit_review_NN_...` canonical ID convention.
+The first cumulative review is listed directly after 1AK.1 under Verb Practice.
+Its title starts with **Unit Review 1** so it is distinct from individual verb
+lessons. The subtitle is **Easy → Medium → Hard · 48 exercises**. Future reviews
+should use the same `Unit Review N —` prefix and stable `unit_review_NN_...` ID.
 
-The primary focus is querer, saber, hablar, salir, and llegar; dar, ver, and decir
-return as reinforcement. All Spanish vocabulary already appears in the eight
-prerequisite packs. This is cumulative retrieval practice, not a new-verb lesson.
+Version 2 gives the review a gentler progression: 16 selected phrases, each
+practiced in Easy, Medium, and Hard. Two rounds keep the supported practice close
+to recall. Each round mixes verbs, and each support level uses a different fixed
+order so the next answer cannot be inferred from the preceding sequence.
 
-| Section | Support | Exercises |
-| --- | --- | ---: |
-| Supported warm-up | Spanish Easy | 6 |
-| Mixed short sentences | English Hard | 12 |
-| Spaced close contrasts | English Hard | 8 |
-| Mixed challenge | English Hard | 6 |
+| Round | Spanish Easy | English Medium | English Hard |
+| --- | ---: | ---: | ---: |
+| Short mixed foundations | 8 | 8 | 8 |
+| Contrasts and connections | 8 | 8 | 8 |
 
-The 32 exercises use one canonical answer and one primary tracked target each.
-Other verbs in a sentence are context; full-sentence word coverage still applies.
-There are no Medium prompts. The contrast section revisits knowing versus
-finding out, wanting versus refusing, and present/past nosotros forms of salir
-and hablar. Paired contrasts have three intervening exercises, so the previous
-answer does not immediately supply the next one. Shared present/past surface
-forms are distinguished by explicit time cues and separate target metadata;
-they never compete against themselves.
+Easy shows the complete Spanish sentence. Medium hides only the primary verb
+form while leaving the rest of the sentence visible. Hard hides the full Spanish
+sentence. Every Hard sentence in this revision has already appeared in both
+Easy and Medium within the same round. There are 48 attempts, including only
+16 Hard attempts, rather than the original jump from 6 Easy to 26 Hard.
 
-Previously practiced forms recur in different contexts. The closing sentences
-mix contrasts, questions, time clauses, and reported speech without introducing
-new vocabulary. Sequence order is deliberately mixed and fixed for stable resume.
-This review does not adapt automatically to past errors, and no mastery is
-inferred merely from a lesson having been published or completed.
+The main focus remains querer, saber, hablar, salir, and llegar, with dar, ver,
+and decir as reinforcement. Knowing versus finding out, wanting versus refusing,
+and present/past nosotros forms return in separate rounds. Each sentence has one
+canonical answer and one primary tracked target. Other verbs provide context;
+the app still checks full-sentence word coverage. Shared present/past surface
+forms use time cues and distinct target metadata and never compete with themselves.
 
-Catalog revision 19 adds this review and preserves all 21 previous lesson entries,
-versions, files, and navigation entries. Authoring validation checks the app's
-parser, catalog, canonical-answer grading, competing-form rejection, support
-masks, target person/tense, completion, resume, and navigation from 1AK.1. Live
-speech recognition still depends on the device. Unit Review 2 is future work.
+Authoring preference for future lessons and reviews: preview the focus forms and
+key learning vocabulary in Easy or Medium before Hard. Exact sentence previews
+are useful but not mandatory everywhere. Familiar vocabulary substitutions and
+occasional new material are welcome as stretch goals. Keep the overall progression
+supportive; do not treat this preference as an absolute ban on novelty in Hard.
+This revision deliberately previews every complete sentence to ease back into recall.
+
+Catalog revision 20 updates this existing review to lessonVersion 2, retaining its
+canonical ID, title, directory entry, and all other lesson files and versions.
+The app retains history under the same lesson ID. A saved run from version 1 cannot
+resume against the new sequence; the app asks for a restart and keeps earlier results.
+
+Validation covers 48 canonical answers, 123 wrong-form substitutions, Medium masks,
+prior Easy/Medium exposure for every Hard phrase, target metadata, two resume cases,
+full completion, and navigation after 1AK.1. Download and offline loading use the
+production content path. Live speech recognition remains a device-level check.
+Dynamic retries and Unit Review 2 are future work.

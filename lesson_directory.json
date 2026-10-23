@@ -1,6 +1,6 @@
 {
   "directoryVersion": 1,
-  "catalogRevision": 19,
+  "catalogRevision": 20,
   "roots": [
     {
       "type": "folder",
@@ -154,7 +154,7 @@
           "type": "lesson",
           "entryId": "verbs-unit-review-01",
           "lessonId": "unit_review_01_mixed_verbs_present_past",
-          "displaySubtitle": "Review 1AG–1AK + Dar, Ver & Decir · 32 exercises"
+          "displaySubtitle": "Easy → Medium → Hard · 48 exercises"
         }
       ]
     },

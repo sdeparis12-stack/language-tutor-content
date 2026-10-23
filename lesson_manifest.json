@@ -150,12 +150,12 @@
     },
     {
       "id": "unit_review_01_mixed_verbs_present_past",
-      "lessonVersion": 1,
+      "lessonVersion": 2,
       "mode": "drill",
       "file": "Lessons/unit-review-01-mixed-verbs-present-past.md",
-      "sha256": "8d5dab7fa753efa980e462af86622a55db8f5318a12d0ca2899531ac8a903005"
+      "sha256": "af64902358030edeaac0f792df969e0ca5ef6bc22012151398a7489f2a799efa"
     }
   ],
-  "catalogRevision": 19,
+  "catalogRevision": 20,
   "directoryFile": "lesson_directory.json"
 }
