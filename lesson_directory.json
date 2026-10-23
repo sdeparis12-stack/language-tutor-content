@@ -1,6 +1,6 @@
 {
   "directoryVersion": 1,
-  "catalogRevision": 18,
+  "catalogRevision": 19,
   "roots": [
     {
       "type": "folder",
@@ -149,6 +149,12 @@
           "type": "lesson",
           "entryId": "verbs-1ak-1-llegar",
           "lessonId": "lesson_1ak_1_llegar_present_past"
+        },
+        {
+          "type": "lesson",
+          "entryId": "verbs-unit-review-01",
+          "lessonId": "unit_review_01_mixed_verbs_present_past",
+          "displaySubtitle": "Review 1AG–1AK + Dar, Ver & Decir · 32 exercises"
         }
       ]
     },

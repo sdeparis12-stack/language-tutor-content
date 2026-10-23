@@ -294,3 +294,43 @@ checks do not simulate live speech recognition.
 
 Suggested follow-up: two unit reviews, one mixing irregular verbs and another
 combining verbs in everyday situations. Those reviews are not part of this batch.
+
+## Unit Review 1 — Mixed Verbs: Present & Past
+
+This is the first cumulative review, listed directly after 1AK.1 under Verb
+Practice. Its title starts with **Unit Review 1** so it is easy to distinguish
+from individual verb lessons. The subtitle identifies its scope: 1AG–1AK plus
+Dar, Ver, and Decir. Future unit reviews should use the same `Unit Review N —`
+title prefix and stable `unit_review_NN_...` canonical ID convention.
+
+The primary focus is querer, saber, hablar, salir, and llegar; dar, ver, and decir
+return as reinforcement. All Spanish vocabulary already appears in the eight
+prerequisite packs. This is cumulative retrieval practice, not a new-verb lesson.
+
+| Section | Support | Exercises |
+| --- | --- | ---: |
+| Supported warm-up | Spanish Easy | 6 |
+| Mixed short sentences | English Hard | 12 |
+| Spaced close contrasts | English Hard | 8 |
+| Mixed challenge | English Hard | 6 |
+
+The 32 exercises use one canonical answer and one primary tracked target each.
+Other verbs in a sentence are context; full-sentence word coverage still applies.
+There are no Medium prompts. The contrast section revisits knowing versus
+finding out, wanting versus refusing, and present/past nosotros forms of salir
+and hablar. Paired contrasts have three intervening exercises, so the previous
+answer does not immediately supply the next one. Shared present/past surface
+forms are distinguished by explicit time cues and separate target metadata;
+they never compete against themselves.
+
+Previously practiced forms recur in different contexts. The closing sentences
+mix contrasts, questions, time clauses, and reported speech without introducing
+new vocabulary. Sequence order is deliberately mixed and fixed for stable resume.
+This review does not adapt automatically to past errors, and no mastery is
+inferred merely from a lesson having been published or completed.
+
+Catalog revision 19 adds this review and preserves all 21 previous lesson entries,
+versions, files, and navigation entries. Authoring validation checks the app's
+parser, catalog, canonical-answer grading, competing-form rejection, support
+masks, target person/tense, completion, resume, and navigation from 1AK.1. Live
+speech recognition still depends on the device. Unit Review 2 is future work.

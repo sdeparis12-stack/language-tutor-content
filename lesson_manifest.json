@@ -147,8 +147,15 @@
       "mode": "drill",
       "file": "Lessons/1ak_1_llegar_present_past.md",
       "sha256": "ff5421fd195aacab4266bc751bc8438c9c6725fa7a62b6c58db821c01fdc1b9a"
+    },
+    {
+      "id": "unit_review_01_mixed_verbs_present_past",
+      "lessonVersion": 1,
+      "mode": "drill",
+      "file": "Lessons/unit-review-01-mixed-verbs-present-past.md",
+      "sha256": "8d5dab7fa753efa980e462af86622a55db8f5318a12d0ca2899531ac8a903005"
     }
   ],
-  "catalogRevision": 18,
+  "catalogRevision": 19,
   "directoryFile": "lesson_directory.json"
 }
