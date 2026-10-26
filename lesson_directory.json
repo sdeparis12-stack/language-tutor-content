@@ -1,6 +1,6 @@
 {
   "directoryVersion": 1,
-  "catalogRevision": 20,
+  "catalogRevision": 21,
   "roots": [
     {
       "type": "folder",
@@ -155,6 +155,12 @@
           "entryId": "verbs-unit-review-01",
           "lessonId": "unit_review_01_mixed_verbs_present_past",
           "displaySubtitle": "Easy → Medium → Hard · 48 exercises"
+        },
+        {
+          "type": "lesson",
+          "entryId": "verbs-1al-1-tomar",
+          "lessonId": "lesson_1al_1_tomar_present_past",
+          "displaySubtitle": "Cycling, hobbies, the garden & getting around"
         }
       ]
     },

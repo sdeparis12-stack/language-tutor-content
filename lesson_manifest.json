@@ -154,8 +154,15 @@
       "mode": "drill",
       "file": "Lessons/unit-review-01-mixed-verbs-present-past.md",
       "sha256": "af64902358030edeaac0f792df969e0ca5ef6bc22012151398a7489f2a799efa"
+    },
+    {
+      "id": "lesson_1al_1_tomar_present_past",
+      "lessonVersion": 1,
+      "mode": "drill",
+      "file": "Lessons/1al_1_tomar_present_past.md",
+      "sha256": "37584ae7cf0c3e730a3f16ac832eda9196364b977a80763fc26539a05b53bbb2"
     }
   ],
-  "catalogRevision": 20,
+  "catalogRevision": 21,
   "directoryFile": "lesson_directory.json"
 }

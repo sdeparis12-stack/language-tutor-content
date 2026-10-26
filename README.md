@@ -342,3 +342,48 @@ prior Easy/Medium exposure for every Hard phrase, target metadata, two resume ca
 full completion, and navigation after 1AK.1. Download and offline loading use the
 production content path. Live speech recognition remains a device-level check.
 Dynamic retries and Unit Review 2 are future work.
+
+## Lesson 1AL.1 — Tomar: present and past
+
+Practices tomo / tomamos and tomé / tomamos through cycling, a bus ride to a game,
+drawing and music classes, gardening, and walking the dog. The six uses are
+drinking water, taking a bus, taking notes, taking a break, making a decision,
+and taking a route. Translations follow the expression: tomar una decisión is
+"make a decision," while tomar agua is "drink water."
+
+| Stage | Support | Attempts |
+| --- | --- | ---: |
+| New settings and all four target slots | Spanish Easy | 6 |
+| Guided variations | English Medium; only the tomar form hidden | 6 |
+| Short mixed recall | English Hard | 8 |
+| Recombined present/past practice | English Hard | 12 |
+| New longer connections | Spanish Easy | 6 |
+| Mixed challenge in a different order | English Hard | 6 |
+
+There are 44 attempts and 38 distinct sentences. The first 32 sentences appear
+only once; six longer sentences each appear once with support and once in Hard.
+Medium varies the supported situations instead of replaying Easy sentences.
+The earlier Hard sections recombine previously supported forms and vocabulary.
+All four person/tense targets appear visibly in Easy before recall. New content
+words used in Hard appear first in Easy or Medium; familiar a and del are assumed.
+The shared tomamos form uses time cues or a clear past narrative, with separate
+present and preterite metadata. Each sentence has one primary target and one
+canonical answer. Other verbs remain context under full-sentence word coverage.
+
+### Ongoing authoring preference: vary the surrounding language
+
+Rotate everyday settings, objects, activities, and sentence structures across
+lessons. Avoid repeatedly centering dinner, breakfast, meetings, reservations,
+and museums. Rehearse the learning focus through different supported contexts;
+do not default to repeating every full sentence in all three difficulty levels.
+Longer or more demanding sentences can benefit from a full supported preview.
+Keep new focus forms and key vocabulary supported, while allowing familiar word
+substitutions and occasional novelty as stretch goals. These are flexible
+teaching preferences, not a ban on any topic or an exact-preview requirement.
+
+Catalog revision 21 appends 1AL.1 after Unit Review 1 in Verb Practice. It preserves
+all 22 existing lesson entries, versions, files, and navigation entries, including
+Unit Review 1 version 2. The review itself is unchanged pending further discussion.
+Validation covers canonical and wrong-form grading, Medium masks, supported focus
+forms/vocabulary, full completion, resume, navigation, and download/offline loading.
+Live speech recognition remains a device-level check.
