@@ -387,3 +387,51 @@ Unit Review 1 version 2. The review itself is unchanged pending further discussi
 Validation covers canonical and wrong-form grading, Medium masks, supported focus
 forms/vocabulary, full completion, resume, navigation, and download/offline loading.
 Live speech recognition remains a device-level check.
+
+## Future sequence — 1AM.1, 1AN.1, and 1AO.1
+
+These three lessons extend familiar verbs into future meaning before expanding
+the verb inventory. Practice them in catalog order after 1AL.1:
+
+| Lesson | Learning focus | Main forms |
+| --- | --- | --- |
+| 1AM.1 — Hablar: future plans | Going to speak/talk | voy a hablar / vamos a hablar |
+| 1AN.1 — Salir: yesterday, today & tomorrow | Switch among completed actions, current actions, and plans | salí / salimos; salgo / salimos; voy a salir / vamos a salir |
+| 1AO.1 — Tomar: simple future | Will take/have, with a little going-to reinforcement | tomaré / tomaremos |
+
+Each pack has 44 attempts and 38 distinct sentences: 6 Spanish Easy foundations,
+6 English Medium variations, 8 short English Hard prompts, 12 recombined English
+Hard prompts, 6 Spanish Easy connections, and those 6 connections recalled in a
+fixed mixed Hard order. Only the longer connections repeat once. Medium hides only
+the primary target token. All tracked forms appear visibly in Easy before recall;
+Hard vocabulary is previewed in Easy or Medium, with familiar infinitive tomar
+assumed from 1AL.1. There are 132 attempts across the sequence, 78 of them Hard.
+
+Hablar uses neighbors, noise, a move, a video call, a sports coach, and a book club.
+Salir uses swimming, shopping, rain boots, the cinema, and a walk in the woods.
+Tomar uses a terrace coffee, coastal trains, window measurements, pottery, running,
+and traffic. Keep rotating surrounding topics in subsequent packs.
+
+Grammar and grading notes:
+- The first future construction is present-tense ir + a + infinitive: voy/vamos
+  change for the speaker, while hablar/salir stay infinitives. It expresses plans
+  and is not restricted to events that are immediately about to happen.
+- For these constructions, the single primary target is voy or vamos, with lemma
+  ir and tense present. The full expected sentence still includes a + infinitive
+  and is checked under the app's existing full-sentence word-coverage grading.
+  Do not mislabel the auxiliary as a conjugation of hablar or salir.
+- Salir's present and preterite salimos share a surface form; time cues and
+  separate target metadata distinguish the intended reading. Present-with-hoy
+  examples use current-day contexts; the present can also express arrangements.
+- Tomaré/tomaremos use future endings on the infinitive tomar. The lesson teaches
+  the regular I/we pattern; irregular simple-future stems are future work.
+- Simple future and ir a can overlap in real speech. English cues specify
+  "will" or "going to" to establish one canonical answer for this exercise,
+  rather than claiming one Spanish form is the only possible translation.
+
+Catalog revision 22 appends the three lessons without changing the 23 existing
+lesson entries or files, including Unit Review 1. Canonical answers, wrong focus
+forms, masks, metadata, supported vocabulary, pause/resume, completion, navigation,
+and real HTTPS/offline loading are validated using production app components.
+Live speech recognition remains a device-level check. Dynamic retries are not
+included in this content release.

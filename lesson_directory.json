@@ -1,6 +1,6 @@
 {
   "directoryVersion": 1,
-  "catalogRevision": 21,
+  "catalogRevision": 22,
   "roots": [
     {
       "type": "folder",
@@ -161,6 +161,24 @@
           "entryId": "verbs-1al-1-tomar",
           "lessonId": "lesson_1al_1_tomar_present_past",
           "displaySubtitle": "Cycling, hobbies, the garden & getting around"
+        },
+        {
+          "type": "lesson",
+          "entryId": "verbs-1am-1-hablar_future_plans",
+          "lessonId": "lesson_1am_1_hablar_future_plans",
+          "displaySubtitle": "Voy a hablar / Vamos a hablar"
+        },
+        {
+          "type": "lesson",
+          "entryId": "verbs-1an-1-salir_yesterday_today_tomorrow",
+          "lessonId": "lesson_1an_1_salir_yesterday_today_tomorrow",
+          "displaySubtitle": "Salí / Salgo / Voy a salir"
+        },
+        {
+          "type": "lesson",
+          "entryId": "verbs-1ao-1-tomar_simple_future",
+          "lessonId": "lesson_1ao_1_tomar_simple_future",
+          "displaySubtitle": "Tomaré / Tomaremos — I will / We will"
         }
       ]
     },

@@ -161,8 +161,29 @@
       "mode": "drill",
       "file": "Lessons/1al_1_tomar_present_past.md",
       "sha256": "37584ae7cf0c3e730a3f16ac832eda9196364b977a80763fc26539a05b53bbb2"
+    },
+    {
+      "id": "lesson_1am_1_hablar_future_plans",
+      "lessonVersion": 1,
+      "mode": "drill",
+      "file": "Lessons/1am_1_hablar_future_plans.md",
+      "sha256": "b53432d8b53fb68df6f11e4b6ec3155a0624b8b920412da23cf97670fa7dc1f4"
+    },
+    {
+      "id": "lesson_1an_1_salir_yesterday_today_tomorrow",
+      "lessonVersion": 1,
+      "mode": "drill",
+      "file": "Lessons/1an_1_salir_yesterday_today_tomorrow.md",
+      "sha256": "7e7da212c3763b2d1ab0e5e9a0f8d042ba2e7ac299d513b50d7eb3f6e8461477"
+    },
+    {
+      "id": "lesson_1ao_1_tomar_simple_future",
+      "lessonVersion": 1,
+      "mode": "drill",
+      "file": "Lessons/1ao_1_tomar_simple_future.md",
+      "sha256": "1d3b2542d7d367bfd925f15cec42092d5647c7ffdef43395a6ed8726c1a2d70c"
     }
   ],
-  "catalogRevision": 21,
+  "catalogRevision": 22,
   "directoryFile": "lesson_directory.json"
 }
