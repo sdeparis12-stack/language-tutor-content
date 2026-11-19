@@ -182,8 +182,43 @@
       "mode": "drill",
       "file": "Lessons/1ao_1_tomar_simple_future.md",
       "sha256": "1d3b2542d7d367bfd925f15cec42092d5647c7ffdef43395a6ed8726c1a2d70c"
+    },
+    {
+      "id": "lesson_1w_1_traer_present_past_refreshed",
+      "lessonVersion": 1,
+      "mode": "drill",
+      "file": "Lessons/Refreshed/1w_1_traer_present_past.md",
+      "sha256": "a0134a3deb8e924df6f9f98a1d293427a127e2c78e0ed6b649fb346c766c5b7f"
+    },
+    {
+      "id": "lesson_1w_2_traer_connections_refreshed",
+      "lessonVersion": 1,
+      "mode": "drill",
+      "file": "Lessons/Refreshed/1w_2_traer_connections.md",
+      "sha256": "6ef260d9e36b8980028096366bf4e0cdd6beebea7297f8dc73ba301835e758ba"
+    },
+    {
+      "id": "lesson_1w_3_traer_stories_refreshed",
+      "lessonVersion": 1,
+      "mode": "drill",
+      "file": "Lessons/Refreshed/1w_3_traer_stories.md",
+      "sha256": "e60efdb448e369687feec494ce6d1227ef77030e31db408d0e0cf7ef4d8ace16"
+    },
+    {
+      "id": "lesson_1x_1_poner_present_past_refreshed",
+      "lessonVersion": 1,
+      "mode": "drill",
+      "file": "Lessons/Refreshed/1x_1_poner_present_past.md",
+      "sha256": "258aa9a67ad1489dc305f998e7b26237c3db4e1a415eeb53876602ea7d50a965"
+    },
+    {
+      "id": "lesson_1y_1_tener_present_past_refreshed",
+      "lessonVersion": 1,
+      "mode": "drill",
+      "file": "Lessons/Refreshed/1y_1_tener_present_past.md",
+      "sha256": "b5baf42b0a784dd02e1da246e27281550cf42e04925d01a5826994fb7ff42862"
     }
   ],
-  "catalogRevision": 22,
+  "catalogRevision": 23,
   "directoryFile": "lesson_directory.json"
 }

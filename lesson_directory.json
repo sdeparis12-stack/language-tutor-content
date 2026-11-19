@@ -1,6 +1,6 @@
 {
   "directoryVersion": 1,
-  "catalogRevision": 22,
+  "catalogRevision": 23,
   "roots": [
     {
       "type": "folder",
@@ -51,134 +51,196 @@
       "title": "Verb Practice",
       "children": [
         {
-          "type": "lesson",
-          "entryId": "verbs-poder",
-          "lessonId": "prototype-2f-poder-present"
+          "type": "folder",
+          "id": "verb-present-past",
+          "title": "Present & Past",
+          "description": "The refreshed Traer, Poner and Tener lessons are first.",
+          "children": [
+            {
+              "type": "lesson",
+              "entryId": "verbs-1w_1_traer_present_past-refreshed",
+              "lessonId": "lesson_1w_1_traer_present_past_refreshed",
+              "displaySubtitle": "Refreshed · 44 exercises · Easy → Medium → Hard"
+            },
+            {
+              "type": "lesson",
+              "entryId": "verbs-1w_2_traer_connections-refreshed",
+              "lessonId": "lesson_1w_2_traer_connections_refreshed",
+              "displaySubtitle": "Refreshed · 44 exercises · Easy → Medium → Hard"
+            },
+            {
+              "type": "lesson",
+              "entryId": "verbs-1w_3_traer_stories-refreshed",
+              "lessonId": "lesson_1w_3_traer_stories_refreshed",
+              "displaySubtitle": "Refreshed · 44 exercises · Easy → Medium → Hard"
+            },
+            {
+              "type": "lesson",
+              "entryId": "verbs-1x_1_poner_present_past-refreshed",
+              "lessonId": "lesson_1x_1_poner_present_past_refreshed",
+              "displaySubtitle": "Refreshed · 44 exercises · Easy → Medium → Hard"
+            },
+            {
+              "type": "lesson",
+              "entryId": "verbs-1y_1_tener_present_past-refreshed",
+              "lessonId": "lesson_1y_1_tener_present_past_refreshed",
+              "displaySubtitle": "Refreshed · 44 exercises · Easy → Medium → Hard"
+            },
+            {
+              "type": "lesson",
+              "entryId": "verbs-poder",
+              "lessonId": "prototype-2f-poder-present"
+            },
+            {
+              "type": "lesson",
+              "entryId": "verbs-venir",
+              "lessonId": "lesson_venir_01"
+            },
+            {
+              "type": "lesson",
+              "entryId": "verbs-poder-plans",
+              "lessonId": "lesson_poder_plans_01"
+            },
+            {
+              "type": "lesson",
+              "entryId": "verbs-1z-1-estar",
+              "lessonId": "lesson_1z_1_estar_present_past"
+            },
+            {
+              "type": "lesson",
+              "entryId": "verbs-1aa-1-hacer",
+              "lessonId": "lesson_1aa_1_hacer_present_past"
+            },
+            {
+              "type": "lesson",
+              "entryId": "verbs-1ab-1-poder",
+              "lessonId": "lesson_1ab_1_poder_present_past"
+            },
+            {
+              "type": "lesson",
+              "entryId": "verbs-1ac-1-ir",
+              "lessonId": "lesson_1ac_1_ir_present_past"
+            },
+            {
+              "type": "lesson",
+              "entryId": "verbs-1ad-1-dar",
+              "lessonId": "lesson_1ad_1_dar_present_past"
+            },
+            {
+              "type": "lesson",
+              "entryId": "verbs-1ae-1-ver",
+              "lessonId": "lesson_1ae_1_ver_present_past"
+            },
+            {
+              "type": "lesson",
+              "entryId": "verbs-1af-1-decir",
+              "lessonId": "lesson_1af_1_decir_present_past"
+            },
+            {
+              "type": "lesson",
+              "entryId": "verbs-1ag-1-querer",
+              "lessonId": "lesson_1ag_1_querer_present_past"
+            },
+            {
+              "type": "lesson",
+              "entryId": "verbs-1ah-1-saber",
+              "lessonId": "lesson_1ah_1_saber_present_past"
+            },
+            {
+              "type": "lesson",
+              "entryId": "verbs-1ai-1-hablar",
+              "lessonId": "lesson_1ai_1_hablar_present_past"
+            },
+            {
+              "type": "lesson",
+              "entryId": "verbs-1aj-1-salir",
+              "lessonId": "lesson_1aj_1_salir_present_past"
+            },
+            {
+              "type": "lesson",
+              "entryId": "verbs-1ak-1-llegar",
+              "lessonId": "lesson_1ak_1_llegar_present_past"
+            },
+            {
+              "type": "lesson",
+              "entryId": "verbs-1al-1-tomar",
+              "lessonId": "lesson_1al_1_tomar_present_past",
+              "displaySubtitle": "Cycling, hobbies, the garden & getting around"
+            }
+          ]
         },
         {
-          "type": "lesson",
-          "entryId": "verbs-venir",
-          "lessonId": "lesson_venir_01"
+          "type": "folder",
+          "id": "verb-future",
+          "title": "Future & Time Switching",
+          "description": "Plans, time contrasts and the simple future.",
+          "children": [
+            {
+              "type": "lesson",
+              "entryId": "verbs-1am-1-hablar_future_plans",
+              "lessonId": "lesson_1am_1_hablar_future_plans",
+              "displaySubtitle": "Voy a hablar / Vamos a hablar"
+            },
+            {
+              "type": "lesson",
+              "entryId": "verbs-1an-1-salir_yesterday_today_tomorrow",
+              "lessonId": "lesson_1an_1_salir_yesterday_today_tomorrow",
+              "displaySubtitle": "Salí / Salgo / Voy a salir"
+            },
+            {
+              "type": "lesson",
+              "entryId": "verbs-1ao-1-tomar_simple_future",
+              "lessonId": "lesson_1ao_1_tomar_simple_future",
+              "displaySubtitle": "Tomaré / Tomaremos — I will / We will"
+            }
+          ]
         },
         {
-          "type": "lesson",
-          "entryId": "verbs-poder-plans",
-          "lessonId": "lesson_poder_plans_01"
+          "type": "folder",
+          "id": "verb-reviews",
+          "title": "Unit Reviews",
+          "description": "Mixed practice across familiar verbs.",
+          "children": [
+            {
+              "type": "lesson",
+              "entryId": "verbs-unit-review-01",
+              "lessonId": "unit_review_01_mixed_verbs_present_past",
+              "displaySubtitle": "Easy → Medium → Hard · 48 exercises"
+            }
+          ]
         },
         {
-          "type": "lesson",
-          "entryId": "verbs-1w-1-traer",
-          "lessonId": "lesson_1w_1_traer_present_past"
-        },
-        {
-          "type": "lesson",
-          "entryId": "verbs-1w-2-traer",
-          "lessonId": "lesson_1w_2_traer_connections"
-        },
-        {
-          "type": "lesson",
-          "entryId": "verbs-1w-3-traer",
-          "lessonId": "lesson_1w_3_traer_stories"
-        },
-        {
-          "type": "lesson",
-          "entryId": "verbs-1x-1-poner",
-          "lessonId": "lesson_1x_1_poner_present_past"
-        },
-        {
-          "type": "lesson",
-          "entryId": "verbs-1y-1-tener",
-          "lessonId": "lesson_1y_1_tener_present_past"
-        },
-        {
-          "type": "lesson",
-          "entryId": "verbs-1z-1-estar",
-          "lessonId": "lesson_1z_1_estar_present_past"
-        },
-        {
-          "type": "lesson",
-          "entryId": "verbs-1aa-1-hacer",
-          "lessonId": "lesson_1aa_1_hacer_present_past"
-        },
-        {
-          "type": "lesson",
-          "entryId": "verbs-1ab-1-poder",
-          "lessonId": "lesson_1ab_1_poder_present_past"
-        },
-        {
-          "type": "lesson",
-          "entryId": "verbs-1ac-1-ir",
-          "lessonId": "lesson_1ac_1_ir_present_past"
-        },
-        {
-          "type": "lesson",
-          "entryId": "verbs-1ad-1-dar",
-          "lessonId": "lesson_1ad_1_dar_present_past"
-        },
-        {
-          "type": "lesson",
-          "entryId": "verbs-1ae-1-ver",
-          "lessonId": "lesson_1ae_1_ver_present_past"
-        },
-        {
-          "type": "lesson",
-          "entryId": "verbs-1af-1-decir",
-          "lessonId": "lesson_1af_1_decir_present_past"
-        },
-        {
-          "type": "lesson",
-          "entryId": "verbs-1ag-1-querer",
-          "lessonId": "lesson_1ag_1_querer_present_past"
-        },
-        {
-          "type": "lesson",
-          "entryId": "verbs-1ah-1-saber",
-          "lessonId": "lesson_1ah_1_saber_present_past"
-        },
-        {
-          "type": "lesson",
-          "entryId": "verbs-1ai-1-hablar",
-          "lessonId": "lesson_1ai_1_hablar_present_past"
-        },
-        {
-          "type": "lesson",
-          "entryId": "verbs-1aj-1-salir",
-          "lessonId": "lesson_1aj_1_salir_present_past"
-        },
-        {
-          "type": "lesson",
-          "entryId": "verbs-1ak-1-llegar",
-          "lessonId": "lesson_1ak_1_llegar_present_past"
-        },
-        {
-          "type": "lesson",
-          "entryId": "verbs-unit-review-01",
-          "lessonId": "unit_review_01_mixed_verbs_present_past",
-          "displaySubtitle": "Easy → Medium → Hard · 48 exercises"
-        },
-        {
-          "type": "lesson",
-          "entryId": "verbs-1al-1-tomar",
-          "lessonId": "lesson_1al_1_tomar_present_past",
-          "displaySubtitle": "Cycling, hobbies, the garden & getting around"
-        },
-        {
-          "type": "lesson",
-          "entryId": "verbs-1am-1-hablar_future_plans",
-          "lessonId": "lesson_1am_1_hablar_future_plans",
-          "displaySubtitle": "Voy a hablar / Vamos a hablar"
-        },
-        {
-          "type": "lesson",
-          "entryId": "verbs-1an-1-salir_yesterday_today_tomorrow",
-          "lessonId": "lesson_1an_1_salir_yesterday_today_tomorrow",
-          "displaySubtitle": "Salí / Salgo / Voy a salir"
-        },
-        {
-          "type": "lesson",
-          "entryId": "verbs-1ao-1-tomar_simple_future",
-          "lessonId": "lesson_1ao_1_tomar_simple_future",
-          "displaySubtitle": "Tomaré / Tomaremos — I will / We will"
+          "type": "folder",
+          "id": "verb-archive-originals",
+          "title": "Archive — Original Lessons",
+          "description": "Original versions with their existing progress. Refreshed versions are in Present & Past.",
+          "children": [
+            {
+              "type": "lesson",
+              "entryId": "verbs-1w-1-traer",
+              "lessonId": "lesson_1w_1_traer_present_past"
+            },
+            {
+              "type": "lesson",
+              "entryId": "verbs-1w-2-traer",
+              "lessonId": "lesson_1w_2_traer_connections"
+            },
+            {
+              "type": "lesson",
+              "entryId": "verbs-1w-3-traer",
+              "lessonId": "lesson_1w_3_traer_stories"
+            },
+            {
+              "type": "lesson",
+              "entryId": "verbs-1x-1-poner",
+              "lessonId": "lesson_1x_1_poner_present_past"
+            },
+            {
+              "type": "lesson",
+              "entryId": "verbs-1y-1-tener",
+              "lessonId": "lesson_1y_1_tener_present_past"
+            }
+          ]
         }
       ]
     },

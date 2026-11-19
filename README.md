@@ -7,11 +7,75 @@ The app retrieves `lesson_manifest.json` over ordinary HTTPS. Lesson paths and
 `directoryFile` are relative to that manifest. Navigation comes from the authored
 directory, not physical folders.
 
+## Current organization — catalog 23, November 19, 2026
+
+Use **Refresh Lessons** in the app. Verb Practice now contains:
+
+- **Present & Past**: the five refreshed packs first, followed by the remaining
+  existing present/past lessons. Refreshed titles and subtitles are labeled.
+- **Future & Time Switching**: 1AM.1, 1AN.1, and 1AO.1, in that order.
+- **Unit Reviews**: Unit Review 1, unchanged.
+- **Archive — Original Lessons**: the original 1W.1, 1W.2, 1W.3, 1X.1, and 1Y.1.
+
+Archiving changes navigation only. Original files, canonical IDs, versions,
+directory entry IDs, and checksums are unchanged, so their local history and
+compatible paused runs remain associated with the originals. Each refreshed pack
+has a separate canonical ID ending in `_refreshed`, version 1, and independent
+progress. Do not transfer an original completion percentage to its replacement.
+Refreshed pack files live under `Lessons/Refreshed/`; original file paths remain
+stable. No app update is required. Learn by Level and Situational Practice are
+unchanged. The later sections below document earlier releases and their locations
+at the time; use this section for the current folder layout.
+
+### Refreshed Traer, Poner and Tener
+
+| Lesson | Focus | Situations |
+| --- | --- | --- |
+| 1W.1 — Traer: present and past | traigo / traemos / traje / trajimos | Books and blankets for a shelter, guitars, team fruit, card games, packing boxes |
+| 1W.2 — Traer: purposes and connections | Bringing something for a purpose or reason | Making a poster, a vegetable garden, insects and a magnifying glass, sharing bread, tying branches |
+| 1W.3 — Traer: short stories and tense switching | Contrast completed actions with today | A bicycle and its receipt, a lamp repair, a puzzle and its pieces |
+| 1X.1 — Poner: present and past | pongo / ponemos / puse / pusimos | Charging phones, jar labels, alarms, laundry, music, storing vegetables |
+| 1Y.1 — Tener: present and past | tengo / tenemos / tuve / tuvimos | A dentist appointment, a power outage, cold and thirst, event tickets, costume ideas |
+
+Each title ends with **Refreshed**. Each pack has 44 attempts, 38 distinct
+sentences, and the recent six-stage progression: 6 Easy → 6 Medium → 8 Hard →
+12 Hard → 6 Easy → 6 Hard. The first 32 sentences appear once. The last six get
+one supported preview and one recall in a different fixed order. All four focus
+forms are shown in Easy before recall; Medium hides only the focus form. The
+first Hard section uses short phrases before the recombined section. The three
+Traer packs retain distinct purposes instead of becoming identical core-form
+drills. Both later Traer packs now include Medium and Hard practice.
+
+Each phrase has one primary target and one canonical answer. In mixed-tense
+Traer sentences, another correctly used form is context and is excluded from
+the competing-form list. Context words still participate in whole-sentence
+coverage; these packs do not introduce independent grading of multiple verbs.
+
+Key vocabulary is supported before recall. Deliberate light stretches in early
+Hard include familiar negatives/questions, plural or gender changes (juegos,
+lupas, frascos, equivocado), the familiar imperfect context forms estaba/tenían,
+and closed versus open (cerrada/abierta). Longer additions such as caber,
+devolver, missing puzzle pieces, and acabar de receive a complete Easy preview.
+These are context, not new tense targets. Tener's past cold/thirst examples
+describe bounded past experiences rather than claiming the preterite is the
+only possible tense for those states. Poner expressions are translated by
+meaning: set an alarm, put a phone on charge, run the washing machine.
+
+Pre-publication checks use the production parser, validator, grader, runner,
+library, and cache: 220 canonical answers, 649 wrong-focus substitutions,
+mask/exposure/repetition checks, three pause/resume positions per lesson,
+completion, and navigation through all four folders. All 26 original manifest
+entries and file hashes, and every existing navigation reference, are preserved.
+Publication also requires real HTTPS bootstrap refresh and fresh offline cache
+reconstruction. These checks do not simulate live microphone recognition.
+
 ## Publishing changes
 
 1. Author and validate the Markdown pack with the app’s existing lesson validator.
 2. Keep the canonical lesson ID when editing an existing lesson. Increment its
    `lessonVersion` in the pack and manifest when its content changes.
+   If retaining the original as a separately playable archive, give the refreshed
+   replacement a new canonical ID instead; preserve the original ID and version.
 3. Calculate the SHA-256 of the exact Markdown bytes (for example,
    `shasum -a 256 Lessons/venir-01.md`) and update its manifest entry.
 4. Add or update directory references. Cross-listed entries share a canonical
