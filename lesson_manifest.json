@@ -217,8 +217,43 @@
       "mode": "drill",
       "file": "Lessons/Refreshed/1y_1_tener_present_past.md",
       "sha256": "b5baf42b0a784dd02e1da246e27281550cf42e04925d01a5826994fb7ff42862"
+    },
+    {
+      "id": "lesson_1z_1_estar_present_past_refreshed",
+      "lessonVersion": 1,
+      "mode": "drill",
+      "file": "Lessons/Refreshed/1z_1_estar_present_past.md",
+      "sha256": "9ddb2ab5cebda863ad76a742a67b81c7b6f86dafa7bbb075254aefb27c0acb9b"
+    },
+    {
+      "id": "lesson_1aa_1_hacer_present_past_refreshed",
+      "lessonVersion": 1,
+      "mode": "drill",
+      "file": "Lessons/Refreshed/1aa_1_hacer_present_past.md",
+      "sha256": "dfa19722dbb8d8c9cc37a93f255cfa4c4accfe6b9cbc63ffeef0aaf8410cc10e"
+    },
+    {
+      "id": "lesson_1ab_1_poder_present_past_refreshed",
+      "lessonVersion": 1,
+      "mode": "drill",
+      "file": "Lessons/Refreshed/1ab_1_poder_present_past.md",
+      "sha256": "4be1cf0193482a8043bbbc6f84ccc81b819626addf6b843ae275359b7544798f"
+    },
+    {
+      "id": "lesson_1ac_1_ir_present_past_refreshed",
+      "lessonVersion": 1,
+      "mode": "drill",
+      "file": "Lessons/Refreshed/1ac_1_ir_present_past.md",
+      "sha256": "030562e87128460694d1e2c476f75fc85bb5ec26892ea7eaf6327f67c7d2ea5e"
+    },
+    {
+      "id": "lesson_1ad_1_dar_present_past_refreshed",
+      "lessonVersion": 1,
+      "mode": "drill",
+      "file": "Lessons/Refreshed/1ad_1_dar_present_past.md",
+      "sha256": "b0f25aff898c3c2d982e3740bf017d51c6988a30d45c7d9dbfdcf6e2095e0142"
     }
   ],
-  "catalogRevision": 23,
+  "catalogRevision": 24,
   "directoryFile": "lesson_directory.json"
 }

@@ -7,15 +7,16 @@ The app retrieves `lesson_manifest.json` over ordinary HTTPS. Lesson paths and
 `directoryFile` are relative to that manifest. Navigation comes from the authored
 directory, not physical folders.
 
-## Current organization — catalog 23, November 19, 2026
+## Current organization — catalog 24, November 24, 2026
 
 Use **Refresh Lessons** in the app. Verb Practice now contains:
 
-- **Present & Past**: the five refreshed packs first, followed by the remaining
+- **Present & Past**: the ten refreshed packs first, in lesson order, followed by the remaining
   existing present/past lessons. Refreshed titles and subtitles are labeled.
 - **Future & Time Switching**: 1AM.1, 1AN.1, and 1AO.1, in that order.
 - **Unit Reviews**: Unit Review 1, unchanged.
-- **Archive — Original Lessons**: the original 1W.1, 1W.2, 1W.3, 1X.1, and 1Y.1.
+- **Archive — Original Lessons**: the ten original packs from 1W.1 through 1AD.1,
+  including all three Traer packs. Their progress stays with these originals.
 
 Archiving changes navigation only. Original files, canonical IDs, versions,
 directory entry IDs, and checksums are unchanged, so their local history and
@@ -27,7 +28,56 @@ stable. No app update is required. Learn by Level and Situational Practice are
 unchanged. The later sections below document earlier releases and their locations
 at the time; use this section for the current folder layout.
 
-### Refreshed Traer, Poner and Tener
+### Second refresh batch — Estar, Hacer, Poder, Ir and Dar
+
+The November 19 refresh worked well for the learner. This batch continues that
+approach with five more lessons, placed immediately after refreshed 1Y.1 Tener.
+Their original entries move from Present & Past to the existing archive, in the
+same order. The first refresh batch, future lessons and Unit Review 1 are unchanged.
+The introductory Poder packs remain available; this refresh replaces 1AB.1's
+position in the active list, not every lesson containing poder.
+
+| Lesson | Present / preterite focus | Situations |
+| --- | --- | --- |
+| 1Z.1 — Estar | estoy / estamos; estuve / estuvimos | Library visits, rooftop skies, a post office queue, rehearsals, readiness and tiredness |
+| 1AA.1 — Hacer | hago / hacemos; hice / hicimos | Crosswords, copies, thread bracelets, compost, videos and shopping lists |
+| 1AB.1 — Poder | puedo / podemos; pude / pudimos | Moving furniture, offline maps, hearing birds, reaching shelves, sewing and small print |
+| 1AC.1 — Ir | voy / vamos; fui / fuimos | Parcels, swimming, a flower market, boats, haircuts and exploring the town center |
+| 1AD.1 — Dar | doy / damos; di / dimos | Feeding fish, handing over keys, hugs, game instructions, thanking someone and second chances |
+
+All five titles end with **Refreshed**. Each has 44 attempts and 38 distinct
+sentences: 6 Spanish Easy, 6 English Medium, 8 short English Hard, 12 recombined
+English Hard, 6 new Spanish Easy connections, and those connections once more
+in a different fixed English Hard order. Only the six longer sentences repeat.
+The four focus forms are visible before recall, and Medium hides only the focus
+form. Each phrase retains one tracked primary target and one canonical answer.
+
+The first Hard sections recombine supported vocabulary. Light stretches are
+familiar question/negative words, time cues such as sábado/todavía, demonstratives,
+and number/gender changes such as cansados, copia/contratos and roja. Longer
+additions receive a full Easy preview. In Dar, `para que entre` is one supported
+contextual stretch, not a new subjunctive lesson or independently graded target.
+Estar uses completed past visits or bounded experiences; it does not imply that
+all past states require the preterite. Poder cues distinguish current ability
+from successful past attempts and past inability; `was able to hear` is used
+where `managed to` would imply an unnecessary struggle. Ir focuses on movement
+and destinations, with familiar `ir a nadar`, not a new future-tense unit. Dar
+includes conventional expressions translated by meaning, such as `dar de comer`
+(feed) and `dar las gracias` (thank). The masculine speaker adjectives in Estar
+follow the existing canonical-answer convention; they are not separate targets.
+
+Catalog 24 adds five new canonical IDs at version 1, preserving all 31 earlier
+manifest entries and hashes, all existing navigation references, and unrelated
+folders. The original files stay at their published paths. Validation uses the
+production parser, validator, grader, runner, library and cache: masks, target
+metadata, prior focus exposure, repetition limits, 220 canonical answers, 660
+wrong-focus substitutions, three pause/resume cases per new lesson, completion,
+and folder navigation. Release verification also checks the ordinary HTTPS
+update from catalog 23 and reconstruction from cache with no network access.
+This does not simulate live speech recognition or transfer old progress to the
+new lessons.
+
+### First refresh batch — Traer, Poner and Tener (catalog 23)
 
 | Lesson | Focus | Situations |
 | --- | --- | --- |

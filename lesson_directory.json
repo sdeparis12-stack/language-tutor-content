@@ -1,6 +1,6 @@
 {
   "directoryVersion": 1,
-  "catalogRevision": 23,
+  "catalogRevision": 24,
   "roots": [
     {
       "type": "folder",
@@ -54,7 +54,7 @@
           "type": "folder",
           "id": "verb-present-past",
           "title": "Present & Past",
-          "description": "The refreshed Traer, Poner and Tener lessons are first.",
+          "description": "Refreshed lessons 1W.1–1AD.1 are first, in lesson order.",
           "children": [
             {
               "type": "lesson",
@@ -88,6 +88,36 @@
             },
             {
               "type": "lesson",
+              "entryId": "verbs-1z_1_estar_present_past-refreshed",
+              "lessonId": "lesson_1z_1_estar_present_past_refreshed",
+              "displaySubtitle": "Refreshed · 44 exercises · Easy → Medium → Hard"
+            },
+            {
+              "type": "lesson",
+              "entryId": "verbs-1aa_1_hacer_present_past-refreshed",
+              "lessonId": "lesson_1aa_1_hacer_present_past_refreshed",
+              "displaySubtitle": "Refreshed · 44 exercises · Easy → Medium → Hard"
+            },
+            {
+              "type": "lesson",
+              "entryId": "verbs-1ab_1_poder_present_past-refreshed",
+              "lessonId": "lesson_1ab_1_poder_present_past_refreshed",
+              "displaySubtitle": "Refreshed · 44 exercises · Easy → Medium → Hard"
+            },
+            {
+              "type": "lesson",
+              "entryId": "verbs-1ac_1_ir_present_past-refreshed",
+              "lessonId": "lesson_1ac_1_ir_present_past_refreshed",
+              "displaySubtitle": "Refreshed · 44 exercises · Easy → Medium → Hard"
+            },
+            {
+              "type": "lesson",
+              "entryId": "verbs-1ad_1_dar_present_past-refreshed",
+              "lessonId": "lesson_1ad_1_dar_present_past_refreshed",
+              "displaySubtitle": "Refreshed · 44 exercises · Easy → Medium → Hard"
+            },
+            {
+              "type": "lesson",
               "entryId": "verbs-poder",
               "lessonId": "prototype-2f-poder-present"
             },
@@ -100,31 +130,6 @@
               "type": "lesson",
               "entryId": "verbs-poder-plans",
               "lessonId": "lesson_poder_plans_01"
-            },
-            {
-              "type": "lesson",
-              "entryId": "verbs-1z-1-estar",
-              "lessonId": "lesson_1z_1_estar_present_past"
-            },
-            {
-              "type": "lesson",
-              "entryId": "verbs-1aa-1-hacer",
-              "lessonId": "lesson_1aa_1_hacer_present_past"
-            },
-            {
-              "type": "lesson",
-              "entryId": "verbs-1ab-1-poder",
-              "lessonId": "lesson_1ab_1_poder_present_past"
-            },
-            {
-              "type": "lesson",
-              "entryId": "verbs-1ac-1-ir",
-              "lessonId": "lesson_1ac_1_ir_present_past"
-            },
-            {
-              "type": "lesson",
-              "entryId": "verbs-1ad-1-dar",
-              "lessonId": "lesson_1ad_1_dar_present_past"
             },
             {
               "type": "lesson",
@@ -239,6 +244,31 @@
               "type": "lesson",
               "entryId": "verbs-1y-1-tener",
               "lessonId": "lesson_1y_1_tener_present_past"
+            },
+            {
+              "type": "lesson",
+              "entryId": "verbs-1z-1-estar",
+              "lessonId": "lesson_1z_1_estar_present_past"
+            },
+            {
+              "type": "lesson",
+              "entryId": "verbs-1aa-1-hacer",
+              "lessonId": "lesson_1aa_1_hacer_present_past"
+            },
+            {
+              "type": "lesson",
+              "entryId": "verbs-1ab-1-poder",
+              "lessonId": "lesson_1ab_1_poder_present_past"
+            },
+            {
+              "type": "lesson",
+              "entryId": "verbs-1ac-1-ir",
+              "lessonId": "lesson_1ac_1_ir_present_past"
+            },
+            {
+              "type": "lesson",
+              "entryId": "verbs-1ad-1-dar",
+              "lessonId": "lesson_1ad_1_dar_present_past"
             }
           ]
         }
